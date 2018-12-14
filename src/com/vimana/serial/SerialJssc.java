@@ -27,9 +27,9 @@ public class SerialJssc {
 
     static SerialPort serialPort;
     
-    static String MYSQL_UNAME = "ttys";
-    static String MYSQL_PASSWORD = "V1m@n@l0gy";
-    static String MYSQL_URL = "jdbc:mysql://localhost:3306/ttys";
+    static String MYSQL_UNAME = "";
+    static String MYSQL_PASSWORD = "";
+    static String MYSQL_URL = "";
     
     String SERIAL_PORT = "/dev/ttyS0";
     int BAUD_RATE = 9600;
